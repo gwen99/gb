@@ -1,2 +1,1 @@
 # gb
-Dollar
